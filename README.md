@@ -39,8 +39,8 @@ class Abhinav:
   - 🌐 Web development assignments
   
 - 💡 **Personal Projects**:
-  - Building web applications with Flask
-  - Backend experiments and API development
+  - Built a simple web application using Flask
+  - Micro-project using React
   - Strengthening algorithm knowledge
 
 ---
