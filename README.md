@@ -123,7 +123,7 @@ class Abhinav:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhhiinv&theme=radical&no-frame=true&no-bg=false&row=1&column=7)](https://github.com/abhhiinv)
 
 </div>
-
+--
 ---
 
 ## 📈 Contribution Graph
@@ -136,24 +136,14 @@ class Abhinav:
 
 ---
 -->
-## 💡 Profile Views & Stats
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhhiinv&color=brightgreen&style=for-the-badge)&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/abhhiinv?style=for-the-badge&logo=github)&nbsp;
-![Repositories](https://img.shields.io/badge/Repositories-dynamic-blue?style=for-the-badge)&nbsp;
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
 ```mermaid
 graph LR
     A[Learning] --> B[Data Structures]
-    A --> C[Algorithms]
+    A --> C[Python]
     A --> D[Web Development]
     B --> E[Building Projects]
     C --> E
