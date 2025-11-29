@@ -138,21 +138,6 @@ class Abhinav:
 -->
 
 
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[Data Structures]
-    A --> C[Python]
-    A --> D[Web Development]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Growing Skills]
-```
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
