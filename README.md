@@ -22,7 +22,7 @@ class Abhinav:
         self.name = "Abhinav Sajeev"
         self.role = "Software Developer"
         self.location = "MACE Kothamangalam"
-        self.routines = ["Problem Solving", "Web Development", "Algorithms"]
+        self.routines = ["Problem Solving", "Web Development"]
         self.hobbies = ["Gaming", "Music", "Movies"]
     
     def currently_learning(self):
