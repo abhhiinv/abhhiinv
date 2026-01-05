@@ -68,16 +68,6 @@ class Abhinav:
 
 ---
 
-### 🎯 Project Highlights
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **MACE_Labs** | University coursework: DSA in C, Python labs, and web development | C, Python, HTML/CSS |
-| **flask_project** | Simple to-do list application built with Flask | Python, Flask |
-| **micro_project_webdev** | Text sharing web application | HTML, CSS, JavaScript |
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
