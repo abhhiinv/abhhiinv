@@ -72,7 +72,9 @@ class Abhinav:
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhhiinv&theme=radical&hide_border=true" />
 
 </div>
-
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhhiinv&show_icons=true&theme=radical" />
+</div>
 <div align="center">
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhhiinv&theme=redical&hide_border=true&area=true" />
