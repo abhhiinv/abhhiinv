@@ -19,11 +19,11 @@ class Abhinav:
         self.name = "Abhinav Sajeev"
         self.role = "Software Developer"
         self.location = "MACE Kothamangalam"
-        self.routines = ["Problem Solving", "Web Development"]
+        self.routines = ["Problem Solving"]
         self.hobbies = ["Gaming", "Music", "Movies"]
     
     def currently_learning(self):
-        return ["Data Structures", "System Design", "Flask", "Python"]
+        return ["Operating System","DBMS","Computer Networks","OOP Concepts"]
 ```
 
 ---
