@@ -31,14 +31,10 @@ class Abhinav:
 ## 🔭 What I'm Working On
 
 - 🎓 **Academic Work** at MACE Labs:
-  - 📚 Data Structures & Algorithms in **C**
-  - 🐍 Python lab exercises and projects
-  - 🌐 Web development assignments
-  
-- 💡 **Personal Projects**:
-  - Built a simple web application using Flask
-  - Micro-project using React
-  - Strengthening algorithm knowledge
+  - 🧱 Object Oriented programming in **JAVA**
+  - 📊 Database lab exercises
+  - 🌐 Operating system basics
+  - 🛜 Computer Networks
 
 ---
 
