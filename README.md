@@ -63,10 +63,10 @@ class Abhinav:
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=abhhiinv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=abhhiinv&show_icons=true&theme=redical&hide_border=true" alt="GitHub Stats" />
 </div>
 <div align="center">
- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhhiinv&theme=radical&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" />
+ <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhhiinv&theme=redical&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" />
 </div>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhhiinv&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
