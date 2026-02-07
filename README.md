@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Abhinav:
@@ -28,9 +28,9 @@ class Abhinav:
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
-- 🎓 **Academic Work** at MACE Labs:
+-  **Academic Work** at MACE Labs:
   - 🧱 Object Oriented programming in **JAVA**
   - 📊 Database lab exercises
   - 🌐 Operating system basics
@@ -38,7 +38,7 @@ class Abhinav:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
     
@@ -61,7 +61,7 @@ class Abhinav:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 <div align="center">
   <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=abhhiinv&show_icons=true&theme=redical&hide_border=true" alt="GitHub Stats" />
 </div>
@@ -74,7 +74,7 @@ class Abhinav:
 
 ---
 <!--
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -84,7 +84,7 @@ class Abhinav:
 --
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -96,7 +96,7 @@ class Abhinav:
 -->
 
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -108,8 +108,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-**Thanks for stopping by!** 😊
+**Thanks for stopping by!** 
 
-*If you like my work, consider leaving a ⭐ on my repositories!*
+*If you like my work, consider leaving a **star** on my repositories!*
 
 </div>
