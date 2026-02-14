@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA%20Student%20%E2%80%A2%20MACE%20Kothamangalam%20%E2%80%A2%20Web%20Enthusiast-3B82F6?style=for-the-badge&logoColor=white" alt="MCA Student • MACE Kothamangalam • Web Enthusiast" />
+  <img src="https://img.shields.io/badge/MCA%20Student%20%E2%80%A2%20MACE%20Kothamangalam%20%E2%80%A2%20Web%20Enthusiast-3B82F6?style=for-the-badge&logoColor=white" alt="MCA Student • MACE Kothamangalam • Tech Enthusiast" />
 </p>
 <br>
 <p>
