@@ -28,16 +28,6 @@ class Abhinav:
 
 ---
 
-##  What I'm Working On
-
--  **Academic Work** at MACE Labs:
-  - 🧱 Object Oriented programming in **JAVA**
-  - 📊 Database lab exercises
-  - 🌐 Operating system basics
-  - 🛜 Computer Networks
-
----
-
 ##  Tech Stack
 
 <div align="center">
