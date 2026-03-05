@@ -65,10 +65,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhhiinv/)&emsp;&emsp;
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsajeev2004@gmail.com)
 
-<br>
 
-**Thanks for stopping by!**
-
-*If you like my work, consider leaving a ⭐ on my repositories!*
 
 </div>
