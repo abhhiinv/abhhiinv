@@ -14,6 +14,14 @@ I come from a Physics background which means I'm wired to understand systems bef
 </p>
 
 <br>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhhiinv/)&emsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsajeev2004@gmail.com)&emsp;
+[![Location](https://img.shields.io/badge/_Kerala,_India-333?style=for-the-badge)](https://maps.app.goo.gl/bsnZcLpcbujjw36BA)
+
+
+</div>
 
 ##  Tech Stack
 
@@ -56,7 +64,7 @@ I come from a Physics background which means I'm wired to understand systems bef
 
 <br>
 
-##  Let's Connect!
+<!--##  Let's Connect!
 
 <div align="center">
 
@@ -68,3 +76,4 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 
 </div>
+-->
